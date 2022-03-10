@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on frontend projects
 - 🤔 I’m looking for help with documentation!
 - 💬 Ask me about frontend development
-- 📫 How to reach me: Twitter - @vivekmohan27
+- 📫 How to reach me: Twitter - [Twitter - @vivekmohan27](https://twitter.com/vivekmohan27)
 - 😄 Pronouns: He / Him
 
 
